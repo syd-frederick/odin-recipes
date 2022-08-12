@@ -1,0 +1,20 @@
+* {
+    background-color: lightgray;
+    font-family: 'Verdana', 'Arial', sans-serif;
+}
+
+h {
+    font-weight: bold;
+}
+
+.green-console {
+    background-color: lightgreen;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+ol, li, a {
+    background-color: lightgreen;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+}
+
+
